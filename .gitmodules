@@ -1,0 +1,3 @@
+[submodule "assets/gg"]
+	path = assets/gg
+	url = https://github.com/SinuxLee/creator-gg.git
